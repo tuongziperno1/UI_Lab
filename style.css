@@ -84,9 +84,29 @@ body {
     position: relative;
  }
  
+.header-second {
+  padding: 1% 15%;
+  background-color: #f1eeee;
 
-
-
+}
+.second-left{
+  padding: 0 4% 0 0;
+}
+.header-second ul li{
+  list-style: none;
+  padding-top: 2%;
+}.header-second ul{
+  margin: 0.5rem 0 !important;
+}
+.second-right {
+  padding: 0 20%;
+}
+.banner{
+  height: 25rem;
+  background-image: url(https://i.pinimg.com/originals/33/08/39/330839ce9a8fdced683c34ae0c3a30f2.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
 
 
 
@@ -182,6 +202,22 @@ body {
     padding: 0 20px 20px 20px;
     background: #ffffff;
   }
+  .tabs__panel__inner2{
+    padding: 0 20px 20px 20px;
+    background: #f1eeee;
+    display: flex;
+  }
+.than1{
+  float: left;
+  width: 20% !important;
+  max-height: 100% !important
+  
+}
+.than1 button{
+  width: 100% !important;
+  padding: 10% 0;
+}
+ 
   .title{
     padding-top: 2%;
   }
@@ -205,4 +241,8 @@ body {
     ul {
       margin: 0;
     }
+  }
+
+  .than{
+    padding-left: 16.5%;
   }
